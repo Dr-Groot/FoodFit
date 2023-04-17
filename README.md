@@ -2,6 +2,8 @@
 
 > [Download Project](https://github.com/Dr-Groot/FoodFit/raw/main/FoodFit.zip)
 
+Before running the app, please make sure you have generated your own api key from [ApiNinja](https://api-ninjas.com/) and [RazorPay](https://razorpay.com/docs/#home-payments). After getting the Api keys, please paste it into constants.swift file in project.
+
 ## Exercise Screen
 ![IMG_0007](https://user-images.githubusercontent.com/63160825/232287183-77069c09-6824-4155-857d-c892531ff25f.PNG)
 
